@@ -12,15 +12,23 @@
 
 	INSPIRATIONS
 - [Bootswatch Simplex UI](https://bootswatch.com/simplex/ )
+- [Gatbootstrap Examples](https://getbootstrap.com/docs/4.0/examples/offcanvas/ )
+- [W3 SChool](https://www.w3schools.com/howto/howto_css_cards.asp )
+- [HTML Streams](https://htmlstream.com/preview/space-v1.2/html/pages/careers.html)
+- [My latest UI Kit](https://github.com/drguichard/kitUI_bootstrap-simplex-custom)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	PAGES
 
 * index : an index (Gracious Lord !) with a link to each page.
-* authentification_form.html
-* banner
-* footer
-* navbar 
+* authentification_form.html https://github.com/drguichard/kitUI_bootstrap-simplex-custom/blob/master/authentification_form.html 
+* [banner](https://github.com/drguichard/kitUI_bootstrap-simplex-custom/blob/master/banner.html)
+* [footer](https://github.com/drguichard/kitUI_bootstrap-simplex-custom/blob/master/footer.html) 
+* [navbar](https://github.com/drguichard/kitUI_bootstrap-simplex-custom/blob/master/navbar.html) 
+* [cards](https://github.com/drguichard/kitUI_bootstrap-simplex-custom/blob/master/cards.html) 
+	* Molecules
+	* Organisms
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
