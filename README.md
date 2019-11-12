@@ -32,10 +32,19 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	MOLECULE LIST
+	MOLECULES LIST
 
+* cards
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	ORGANISMS LIST
+
+* Event card deck 
+* City card deck
+* User card group
 * authentification_form.html
-* banner
+* banners
 * footer : started from nihil
 * navbar : started from Boostwatch Simplex UI
 ![My navbar](img/navbar8767.png)
