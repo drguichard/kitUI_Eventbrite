@@ -3,8 +3,8 @@
 
 ### kitUI_bootstrap-simplex-custom
 >even if my backend is not completed, yet [beautiful](https://eventbritebytg.herokuapp.com/), I have to change my mind
->[Github of the site](https://github.com/drguichard/Eventbrite)
->[Github of the UI kit for the site](https://github.com/drguichard/kitUI_bootstrap-simplex-custom)
+>* [Github of the site](https://github.com/drguichard/Eventbrite)
+>* [Github of the UI kit for the site](https://github.com/drguichard/kitUI_bootstrap-simplex-custom)
 
 
 
