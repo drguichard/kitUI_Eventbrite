@@ -10,7 +10,6 @@
 
 	INSPIRATIONS
 - [Bootswatch Simplex UI](https://bootswatch.com/simplex/ )
-[Bootswatch](img/navbar8767.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	PAGES
@@ -29,3 +28,4 @@
 * banner
 * footer : started from nihil
 * navbar : started from Boostwatch Simplex UI
+![My navbar](img/navbar8767.png)
