@@ -35,7 +35,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	ATOMS LIST
 
-All gathered in [this file](https://github.com/drguichard/kitUI_bootstrap-simplex-custom/blob/master/css/boostrap.css)
+All gathered in [this file](https://github.com/drguichard/kitUI_bootstrap-simplex-custom/blob/master/css/bootstrap.css)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	MOLECULES LIST
