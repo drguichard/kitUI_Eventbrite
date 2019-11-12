@@ -21,7 +21,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	PAGES
 
-* index : an [index](https://github.com/drguichard/kitUI_bootstrap-simplex-custom/blob/master/index.html) (Gracious Lord !) with a link to each page.
+* [index](https://github.com/drguichard/kitUI_bootstrap-simplex-custom/blob/master/index.html) (Gracious Lord !) : an index with a link to each page.
 * [authentification_form.html](https://github.com/drguichard/kitUI_bootstrap-simplex-custom/blob/master/authentification_form.html) 
 * [banner](https://github.com/drguichard/kitUI_bootstrap-simplex-custom/blob/master/banner.html)
 * [footer](https://github.com/drguichard/kitUI_bootstrap-simplex-custom/blob/master/footer.html) 
