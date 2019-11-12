@@ -29,6 +29,8 @@
 * [cards](https://github.com/drguichard/kitUI_bootstrap-simplex-custom/blob/master/cards.html) 
 	* Molecules
 	* Organisms
+* [comments](https://github.com/drguichard/kitUI_bootstrap-simplex-custom/blob/master/comment.html) 
+
 
 
 
