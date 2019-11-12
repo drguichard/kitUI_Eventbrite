@@ -2090,15 +2090,16 @@ select.form-control:focus::-ms-value {
 }
 
 .col-form-label-lg {
-  padding-top: calc(0.5rem + 1px);
+  padding-top: calc(1.5rem + 1px);
   padding-bottom: calc(0.5rem + 1px);
   font-size: 1.015625rem;
   line-height: 1.5;
 }
 
 .col-form-label-sm {
-  padding-top: calc(0.25rem + 1px);
+  padding-top: calc(-0.25rem + 1px);
   padding-bottom: calc(0.25rem + 1px);
+  padding-left: calc(0.75rem + 1px);
   font-size: 0.7109375rem;
   line-height: 1.5;
 }
@@ -2130,11 +2131,12 @@ select.form-control:focus::-ms-value {
 }
 
 .form-control-lg {
-  height: calc(1.5em + 1rem + 2px);
-  padding: 0.5rem 1rem;
+  height: calc(2.5em + 1rem + 2px);
+  padding: 3.5rem 40rem;
   font-size: 1.015625rem;
   line-height: 1.5;
   border-radius: 0.3rem;
+  width: 100%;
 }
 
 select.form-control[size], select.form-control[multiple] {
