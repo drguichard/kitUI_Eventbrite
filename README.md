@@ -47,13 +47,13 @@ All gathered in [this file](https://github.com/drguichard/kitUI_bootstrap-simple
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	ORGANISMS LIST
 
-* Event card deck 
-* City card deck
-* User card group
-* authentification_form.html
-* banners
-* footer : started from nihil
-* navbar : started from Boostwatch Simplex UI
+* Event card deck : ok
+* City card deck : ok (I havent done the backend for that)
+* User card group: ok (I havent done the backend for that)
+* authentification_form : quite ok
+* banners : ok
+* footer : ok
+* navbar : ok
 ![My navbar](img/navbar8767.png)
-* comment box (not finished)
+* comment box (not finished and I havent done the backend for that)
 
