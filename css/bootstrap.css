@@ -401,7 +401,7 @@ h6, .h6 {
 }
 
 .lead {
-  font-size: 1.015625rem;
+  font-size: 2.015625rem;
   font-weight: 300;
 }
 
@@ -5431,8 +5431,17 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 @media (min-width: 576px) {
   .jumbotron {
-    padding: 4rem 2rem;
+    padding: 14rem 2rem;
+    background-image: url("../img/feasttilldeathdouspart.jpeg");
+    background-color: #cccccc;
+    background-position: bottom; 
+
   }
+}
+
+.jumbotron-sm {
+  padding: 3rem 1rem;
+  background-position: center; 
 }
 
 .jumbotron-fluid {
